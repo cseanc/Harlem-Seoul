@@ -1,6 +1,7 @@
 # Harlem Seoul
 
 #### A Theme For Xcode
+###### Read the design story [here](https://medium.com/@cseanc/harlem-seoul-5258d0859217)
 
 #### ![Harlem Seoul](harlem_seoul.png)
 
